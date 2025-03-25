@@ -1,0 +1,104 @@
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 135
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "name": "John Doe",
+  "email": "",
+  "address": "123 main ass",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2025-04-26"
+}
+
+<> 2025-03-26T023336.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 135
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "name": "John Doe",
+  "email": "",
+  "address": "123 main ass",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2025-04-26"
+}
+
+<> 2025-03-26T023234.400.txt
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 135
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "name": "John Doe",
+  "email": "",
+  "address": "123 main ass",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2025-04-26"
+}
+
+<> 2025-03-26T023024.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 135
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "name": "John Doe",
+  "email": "",
+  "address": "123 main ass",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2025-04-26"
+}
+
+<> 2025-03-26T022316.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 151
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "name": "John Doe",
+  "email": "test@example.com",
+  "address": "123 main ass",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2025-04-26"
+}
+
+<> 2025-03-26T022230.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-26T015345.200.json
+
+###
+
